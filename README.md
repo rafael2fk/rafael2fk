@@ -2,9 +2,6 @@
 
 **`Desenvolvedor Back-End`**
 
-Rafael Barbosa  
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
