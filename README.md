@@ -3,8 +3,6 @@
 **`Desenvolvedor Back-End`**
 
 Rafael Barbosa  
-Idade: 23 anos | São Paulo  
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP), com foco no desenvolvimento de soluções em C# .NET. Em busca de uma oportunidade de estágio ou Júnior para aplicar meus conhecimentos em programação, aprimorar habilidades técnicas e colaborar no desenvolvimento de sistemas eficientes e escaláveis. Tenho experiência em projetos acadêmicos, como sistemas de avaliação de notas, e sou apaixonado por resolver desafios tecnológicos. Busco um ambiente desafiador onde possa aprender e contribuir para o sucesso da equipe.
 
 ---
 
